@@ -2,7 +2,7 @@
  
  
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=THIS+IS+BARAKA-MD+MADE+IN+Oman 🇴🇲" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&+MADE+IN+Oman 🇴🇲" alt="Typing SVG" /></a>
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -27,35 +27,7 @@
 | Hidden NSFW Commands             | Access a range of NSFW commands hidden in the bot       | ✅           | 1.0        |
 | Logo Commands                    | Generate logos using specialized commands               | ✅           | 1.0        |
 | Anime Commands                   | Explore anime-related commands and features             | ✅           | 1.0        |
-| Bot Cantrol Commands             | Cantrol Bot Without Opening Deploy Platform             | ✅           | 1.0        |
-| Various Games                    | Enjoy a variety of games within the bot                 | ✅           | 1.0        |
-| Audio/Video Editor Commands      | Edit audio and video files with bot commands            | ✅           | 1.0        |
-| Auto/View once commands     | remove photo and video from lock            | ✅           | 1.0    |
-
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-
-## `BUTTON MENU SETUP`
-
-
-1. Fork the repo
-    <br>
-<a href='https://github.com/Kingbega/BARAKA-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
-
-
-2. Get session id by (SCANNING QR1)
-    <br>
-<a href='https://replit.com/@devibraahadams/Baraka-pairing-code1' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
-
-
-2. Get session id by (PAIRING CODE2)
-    <br>
-<a href='https://baraka-scanne-90cff07c85f7.herokuapp.com/' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id_2-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
-
-    
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+| Bot Cantrol Commands             | 
 
 
 #### <a href="https://github.com/Kingbega/BARAKA-MD/archive/refs/heads/main.zip"><img src="https://img.shields.io/badge/DOWNLOAD%20FILE-HERE-red" alt="Rainhost Files" width="150"></a>
