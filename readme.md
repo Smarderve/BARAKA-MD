@@ -1,15 +1,8 @@
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-                                               
 
-</p>
-<p align="center"> 
-  <a href="https://whatsapp.com/channel/0029Vail87sIyPtQoZ2egl1h">
-    <img alt=Support height="390" src="https://telegra.ph/file/346b2fb749a7255defe87.jpg"> 
-    </p>
  
  
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=THIS+IS+BARAKA-MD+MADE+IN+TANZANIA+🇹🇿" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=THIS+IS+BARAKA-MD+MADE+IN+Oman 🇴🇲" alt="Typing SVG" /></a>
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
